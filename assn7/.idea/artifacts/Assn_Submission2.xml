@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Assn Submission2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assn_Submission2</output-path>
+    <root id="root">
+      <element id="archive" name="Fairbanks-Ember-Assn7-2.zip">
+        <element id="directory" name="src">
+          <element id="dir-copy" path="$PROJECT_DIR$/src" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

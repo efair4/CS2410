@@ -1,0 +1,75 @@
+#default{
+    -fx-background-color: lightskyblue;
+    -fx-border-color: black;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+#winBomb{
+    -fx-background-color: lightgreen;
+    -fx-border-color: black;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-font-family: monospace;
+}
+#unmarkedBomb{
+    -fx-background-color: red;
+    -fx-border-color: black;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-font-family: monospace;
+}
+#wrongBomb{
+    -fx-background-color: yellow;
+    -fx-border-color: black;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-font-family: monospace;
+}
+#cleared {
+    -fx-background-color: aliceblue;
+    -fx-border-color: black;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-font-family: monospace;
+}
+#flagged {
+    -fx-background-color: lightskyblue;
+    -fx-border-color: black;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-font-family: monospace;
+}
+#question {
+    -fx-background-color: lightskyblue;
+    -fx-border-color: black;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-font-family: monospace;
+}
+#infoBox {
+    -fx-font-size: 20px;
+    -fx-font-family: monospace;
+    -fx-font-weight: bold;
+}
+#startBtn {
+    -fx-font-size: 22px;
+    -fx-font-family: monospace;
+    -fx-font-weight: bold;
+    -fx-background-color: lightskyblue;
+    -fx-border-width: 2px;
+    -fx-border-color: black;
+    -fx-border-radius: 5%;
+    -fx-background-radius: 5%;
+}
